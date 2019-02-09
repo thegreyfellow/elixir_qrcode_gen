@@ -14,6 +14,8 @@ defmodule Images.MixProject do
   # Run "mix help compile.app" to learn about applications.
   def application do
     [
+      # call Images.start on startup
+      mod: {Images, []},
       extra_applications: [:logger]
     ]
   end

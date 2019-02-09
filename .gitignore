@@ -22,3 +22,6 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 images-*.tar
 
+# ignore .elixir_ls folder whatever that is used for
+/.elixir_ls/
+
