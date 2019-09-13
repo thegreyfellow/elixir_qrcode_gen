@@ -1,5 +1,5 @@
 %{
-  "eqrcode": {:hex, :eqrcode, "0.1.5", "6a38e9b303d292c7781123a0717a25bdbaabdf692159294ed096b474001b95e8", [:mix], [], "hexpm"},
+  "eqrcode": {:hex, :eqrcode, "0.1.6", "79428f1101411ed85995c722136f0159c73b6b7d8c36cbf1095ba64b443996c1", [:mix], [], "hexpm"},
   "mogrify": {:hex, :mogrify, "0.7.0", "f7af9a42a3b17818c9841dcfa12f7416c4c34078872eb79b2dc55e15670c3a7f", [:mix], [], "hexpm"},
   "poolboy": {:hex, :poolboy, "1.5.2", "392b007a1693a64540cead79830443abf5762f5d30cf50bc95cb2c1aaafa006b", [:rebar3], [], "hexpm"},
 }

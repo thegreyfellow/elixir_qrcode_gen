@@ -23,7 +23,7 @@ defmodule Images.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:eqrcode, "~> 0.1.5"},
+      {:eqrcode, "~> 0.1.6"},
       {:mogrify, "~> 0.7.0"},
       {:poolboy, "~> 1.5.1"}
       # {:dep_from_hexpm, "~> 0.3.0"},
